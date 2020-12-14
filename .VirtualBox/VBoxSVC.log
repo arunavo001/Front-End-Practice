@@ -1,0 +1,53 @@
+00:00:00.000684 main     VirtualBox COM Server 6.0.14 r133895 win.amd64 (Oct 10 2019 19:44:31) release log
+00:00:00.000686 main     Log opened 2019-12-09T15:25:29.783977800Z
+00:00:00.000686 main     Build Type: release
+00:00:00.000691 main     OS Product: Windows 10
+00:00:00.000692 main     OS Release: 10.0.18362
+00:00:00.000692 main     OS Service Pack: 
+00:00:00.290948 main     DMI Product Name: HP Laptop 15-bs1xx
+00:00:00.330429 main     DMI Product Version: Type1ProductConfigId
+00:00:00.330455 main     Host RAM: 8108MB (7.9GB) total, 3424MB (3.3GB) available
+00:00:00.330469 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.330470 main     Process ID: 14708
+00:00:00.330472 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.859984          VirtualBox: object creation starts
+00:00:00.860190          Home directory: 'C:\Users\aruna\.VirtualBox'
+00:00:00.860272          Installed Drivers:
+00:00:00.863852            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.14.33895)
+00:00:00.864335            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.14.33895)
+00:00:00.864722            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.14.33895)
+00:00:00.865168            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.14.33895)
+00:00:00.935620          Loading settings file "C:\Users\aruna\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.979834          Getting USB descriptor (id 0) failed with error 31
+00:00:00.980004          Getting USB descriptor (id 0) failed with error 31
+00:00:00.983592          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb5d5)
+00:00:00.983702          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb009)
+00:00:01.303681          HostDnsMonitor::updateInfo
+00:00:01.303708          HostDnsMonitor: old information
+00:00:01.303711            no server entries
+00:00:01.303712            no domain set
+00:00:01.303712            no search string entries
+00:00:01.303713          HostDnsMonitor: new information
+00:00:01.303713            server 1: 192.168.29.1
+00:00:01.303714            no domain set
+00:00:01.303714            no search string entries
+00:00:01.365300          SUPR0QueryVTCaps -> VERR_VMX_MSR_ALL_VMX_DISABLED
+00:00:01.365743          VD: VDInit finished with VINF_SUCCESS
+00:00:01.518265          Loading settings file "C:\Users\aruna\VirtualBox VMs\Kali Rolling (2019.4) x64\Kali Rolling (2019.4) x64.vbox" with version "1.16-windows"
+00:00:01.521433          VirtualBox: object created
+00:00:07.814402          Saving settings file "C:\Users\aruna\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.340755          Saving settings file "C:\Users\aruna\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:19.403348          Saving settings file "C:\Users\aruna\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:19.566519          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:19.597188          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:19.597943          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:19.598691          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:19.599421          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:19.600116          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:19.600793          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:19.601436          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:24.789392          Saving settings file "C:\Users\aruna\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:24.841232          Saving settings file "C:\Users\aruna\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:30.520953 main     VirtualBox: object deletion starts
+00:00:30.575525 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:30.576209 main     VirtualBox: object deleted

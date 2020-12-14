@@ -1,0 +1,76 @@
+[I 18:32:03.344 NotebookApp] Writing notebook server cookie secret to C:\Users\aruna\AppData\Roaming\jupyter\runtime\notebook_cookie_secret
+[I 18:32:45.749 NotebookApp] JupyterLab extension loaded from E:\Anaconda\lib\site-packages\jupyterlab
+[I 18:32:45.749 NotebookApp] JupyterLab application directory is E:\Anaconda\share\jupyter\lab
+[I 18:32:45.776 NotebookApp] Serving notebooks from local directory: C:\Users\aruna
+[I 18:32:45.776 NotebookApp] The Jupyter Notebook is running at:
+[I 18:32:45.776 NotebookApp] http://localhost:8888/?token=dbb5520146003f77a68f30fab5dfd15170414f19c0dacbaf
+[I 18:32:45.777 NotebookApp]  or http://127.0.0.1:8888/?token=dbb5520146003f77a68f30fab5dfd15170414f19c0dacbaf
+[I 18:32:45.777 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:32:47.228 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/aruna/AppData/Roaming/jupyter/runtime/nbserver-452-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=dbb5520146003f77a68f30fab5dfd15170414f19c0dacbaf
+     or http://127.0.0.1:8888/?token=dbb5520146003f77a68f30fab5dfd15170414f19c0dacbaf
+[I 18:33:33.286 NotebookApp] Creating new notebook in 
+[I 18:33:37.314 NotebookApp] Writing notebook-signing key to C:\Users\aruna\AppData\Roaming\jupyter\notebook_secret
+[I 18:33:49.389 NotebookApp] Kernel started: 3852fa6e-4b51-4da0-b592-dd34ada61fac
+[I 18:35:47.384 NotebookApp] Saving file at /Untitled16.ipynb
+[I 18:37:47.239 NotebookApp] Saving file at /Untitled16.ipynb
+[I 18:38:03.815 NotebookApp] Saving file at /Untitled16.ipynb
+[W 18:38:14.133 NotebookApp] 404 GET /api/contents/LDA.ipynb?type=notebook&content=0&_=1600261426393 (::1): No such file or directory: LDA.ipynb
+[W 18:38:14.134 NotebookApp] No such file or directory: LDA.ipynb
+[W 18:38:14.135 NotebookApp] 404 GET /api/contents/LDA.ipynb?type=notebook&content=0&_=1600261426393 (::1) 4.04ms referer=http://localhost:8888/notebooks/Untitled16.ipynb?kernel_name=python3
+[I 18:38:14.163 NotebookApp] Uploading file to /LDA.ipynb
+[I 18:40:01.658 NotebookApp] Saving file at /LDA.ipynb
+[I 18:42:53.381 NotebookApp] Saving file at /LDA.ipynb
+[I 18:45:43.387 NotebookApp] Saving file at /LDA.ipynb
+[I 18:48:33.391 NotebookApp] Saving file at /LDA.ipynb
+[I 18:51:23.402 NotebookApp] Saving file at /LDA.ipynb
+[I 18:54:13.367 NotebookApp] Saving file at /LDA.ipynb
+[I 18:57:03.349 NotebookApp] Saving file at /LDA.ipynb
+[I 18:59:53.383 NotebookApp] Saving file at /LDA.ipynb
+[I 19:05:33.348 NotebookApp] Saving file at /LDA.ipynb
+[I 19:08:23.357 NotebookApp] Saving file at /LDA.ipynb
+[I 19:11:13.393 NotebookApp] Saving file at /LDA.ipynb
+[I 19:14:03.405 NotebookApp] Saving file at /LDA.ipynb
+[I 19:16:53.350 NotebookApp] Saving file at /LDA.ipynb
+[I 19:19:43.392 NotebookApp] Saving file at /LDA.ipynb
+[I 19:22:33.340 NotebookApp] Saving file at /LDA.ipynb
+[I 19:25:23.357 NotebookApp] Saving file at /LDA.ipynb
+[I 19:31:03.387 NotebookApp] Saving file at /LDA.ipynb
+[I 19:36:43.357 NotebookApp] Saving file at /LDA.ipynb
+[I 19:39:33.365 NotebookApp] Saving file at /LDA.ipynb
+[I 19:42:23.393 NotebookApp] Saving file at /LDA.ipynb
+[I 19:43:45.726 NotebookApp] Saving file at /LDA.ipynb
+[I 19:57:35.399 NotebookApp] Starting buffering for 3852fa6e-4b51-4da0-b592-dd34ada61fac:f9f2f6278988415590b547ca99c2025e
+[I 20:11:55.423 NotebookApp] Creating new notebook in 
+[I 20:11:56.533 NotebookApp] Kernel started: f486b38b-5eea-4e0d-bfca-c02b82d70a5c
+[W 20:12:08.630 NotebookApp] 404 GET /api/contents/numpy.ipynb?type=notebook&content=0&_=1600267316184 (::1): No such file or directory: numpy.ipynb
+[W 20:12:08.630 NotebookApp] No such file or directory: numpy.ipynb
+[W 20:12:08.630 NotebookApp] 404 GET /api/contents/numpy.ipynb?type=notebook&content=0&_=1600267316184 (::1) 1.04ms referer=http://localhost:8888/notebooks/Untitled17.ipynb?kernel_name=python3
+[I 20:12:08.636 NotebookApp] Uploading file to /numpy.ipynb
+[I 20:14:01.357 NotebookApp] Saving file at /numpy.ipynb
+[I 20:15:56.721 NotebookApp] Saving file at /numpy.ipynb
+[I 20:17:57.375 NotebookApp] Saving file at /numpy.ipynb
+[I 20:19:57.384 NotebookApp] Saving file at /numpy.ipynb
+[I 20:23:56.530 NotebookApp] Saving file at /numpy.ipynb
+[I 20:25:56.520 NotebookApp] Saving file at /numpy.ipynb
+[I 20:27:56.526 NotebookApp] Saving file at /numpy.ipynb
+[I 20:31:56.527 NotebookApp] Saving file at /numpy.ipynb
+[I 20:33:56.524 NotebookApp] Saving file at /numpy.ipynb
+[I 20:35:57.384 NotebookApp] Saving file at /numpy.ipynb
+[I 20:37:56.525 NotebookApp] Saving file at /numpy.ipynb
+[I 20:39:56.527 NotebookApp] Saving file at /numpy.ipynb
+[I 20:41:57.364 NotebookApp] Saving file at /numpy.ipynb
+[I 20:43:56.520 NotebookApp] Saving file at /numpy.ipynb
+[I 20:45:56.521 NotebookApp] Saving file at /numpy.ipynb
+[I 20:47:57.385 NotebookApp] Saving file at /numpy.ipynb
+[I 20:49:57.391 NotebookApp] Saving file at /numpy.ipynb
+[I 20:51:57.384 NotebookApp] Saving file at /numpy.ipynb
+[I 20:53:56.529 NotebookApp] Saving file at /numpy.ipynb
+[I 20:55:56.814 NotebookApp] Saving file at /numpy.ipynb
+[I 20:57:22.687 NotebookApp] Saving file at /numpy.ipynb
+[I 21:00:02.419 NotebookApp] Starting buffering for f486b38b-5eea-4e0d-bfca-c02b82d70a5c:7a70c5325cb0465b8865740acffe838a
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.

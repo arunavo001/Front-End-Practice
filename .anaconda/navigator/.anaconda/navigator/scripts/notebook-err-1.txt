@@ -1,0 +1,56 @@
+[I 12:26:16.211 NotebookApp] JupyterLab extension loaded from E:\Python\Anaconda\lib\site-packages\jupyterlab
+[I 12:26:16.211 NotebookApp] JupyterLab application directory is E:\Python\Anaconda\share\jupyter\lab
+[I 12:26:16.225 NotebookApp] Serving notebooks from local directory: C:\Users\aruna
+[I 12:26:16.225 NotebookApp] The Jupyter Notebook is running at:
+[I 12:26:16.226 NotebookApp] http://localhost:8888/?token=b06528c28eee27cd0fc3dd076a87edacfe1f482cd2aaed34
+[I 12:26:16.226 NotebookApp]  or http://127.0.0.1:8888/?token=b06528c28eee27cd0fc3dd076a87edacfe1f482cd2aaed34
+[I 12:26:16.226 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:26:16.470 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/aruna/AppData/Roaming/jupyter/runtime/nbserver-1044-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=b06528c28eee27cd0fc3dd076a87edacfe1f482cd2aaed34
+     or http://127.0.0.1:8888/?token=b06528c28eee27cd0fc3dd076a87edacfe1f482cd2aaed34
+[W 12:26:32.104 NotebookApp] Notebook Incremental.ipynb is not trusted
+[I 12:26:33.172 NotebookApp] Kernel started: 75d2b907-8e41-4eb5-aabd-e3964c2b21e7
+[I 12:28:32.562 NotebookApp] Saving file at /Incremental.ipynb
+[W 12:28:32.563 NotebookApp] Notebook Incremental.ipynb is not trusted
+[I 12:29:15.397 NotebookApp] Saving file at /Incremental.ipynb
+[W 12:29:15.397 NotebookApp] Notebook Incremental.ipynb is not trusted
+[W 12:30:32.494 NotebookApp] Notebook Spherical_KMeans.ipynb is not trusted
+[I 12:30:32.932 NotebookApp] Kernel started: b561da38-d197-4e32-9358-482bf82b5be4
+[W 12:30:34.597 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (::1) 41.37ms referer=http://localhost:8888/notebooks/Spherical_KMeans.ipynb
+[I 12:32:32.940 NotebookApp] Saving file at /Spherical_KMeans.ipynb
+[I 12:33:37.403 NotebookApp] Saving file at /Spherical_KMeans.ipynb
+[I 12:37:05.639 NotebookApp] Starting buffering for b561da38-d197-4e32-9358-482bf82b5be4:ce4bb27117df47cc9b36f70578c4bd13
+[I 12:37:07.971 NotebookApp] Starting buffering for 75d2b907-8e41-4eb5-aabd-e3964c2b21e7:4b81f51c0362402180347db60634650a
+[W 12:44:14.724 NotebookApp] Notebook HMM_Based_Classification.ipynb is not trusted
+[I 12:44:15.222 NotebookApp] Kernel started: 7bcbac3a-4f65-4211-93fc-6e73ac826bc9
+[I 12:46:15.255 NotebookApp] Saving file at /HMM_Based_Classification.ipynb
+[I 12:48:15.810 NotebookApp] Saving file at /HMM_Based_Classification.ipynb
+[I 12:49:49.919 NotebookApp] Starting buffering for 7bcbac3a-4f65-4211-93fc-6e73ac826bc9:3225c399b1ad47f78961b42abc720a6c
+[W 12:49:54.611 NotebookApp] Notebook HMM_Based_Classification.ipynb is not trusted
+[I 12:50:51.725 NotebookApp] Saving file at /HMM_Based_Classification.ipynb
+[W 12:50:51.726 NotebookApp] Notebook HMM_Based_Classification.ipynb is not trusted
+[W 12:53:36.567 NotebookApp] Notebook Probabilistic_Suffix_Tree.ipynb is not trusted
+[I 12:53:37.071 NotebookApp] Kernel started: 8310da2d-d6c0-4474-a5b5-0c75afa0108b
+[I 12:53:39.167 NotebookApp] Starting buffering for 7bcbac3a-4f65-4211-93fc-6e73ac826bc9:fa1c9177a3d04e768614d683c7a9f8ec
+[I 12:55:29.429 NotebookApp] Saving file at /Probabilistic_Suffix_Tree.ipynb
+[W 12:55:29.430 NotebookApp] Notebook Probabilistic_Suffix_Tree.ipynb is not trusted
+[I 12:55:29.602 NotebookApp] Starting buffering for 8310da2d-d6c0-4474-a5b5-0c75afa0108b:81657be9c4f844938958c2002219c02c
+[W 13:05:10.698 NotebookApp] Notebook Resampling-Strategies-for-Imbalanced-Datasets.ipynb is not trusted
+[I 13:05:11.575 NotebookApp] Kernel started: 40901b1d-4a0b-457b-a165-c8e5933e97f9
+[I 13:07:11.575 NotebookApp] Saving file at /Resampling-Strategies-for-Imbalanced-Datasets.ipynb
+[W 13:07:11.576 NotebookApp] Notebook Resampling-Strategies-for-Imbalanced-Datasets.ipynb is not trusted
+[I 13:09:11.554 NotebookApp] Saving file at /Resampling-Strategies-for-Imbalanced-Datasets.ipynb
+[W 13:09:11.554 NotebookApp] Notebook Resampling-Strategies-for-Imbalanced-Datasets.ipynb is not trusted
+[I 13:11:11.568 NotebookApp] Saving file at /Resampling-Strategies-for-Imbalanced-Datasets.ipynb
+[W 13:11:11.583 NotebookApp] Notebook Resampling-Strategies-for-Imbalanced-Datasets.ipynb is not trusted
+[I 13:14:54.009 NotebookApp] Saving file at /Resampling-Strategies-for-Imbalanced-Datasets.ipynb
+[W 13:14:54.010 NotebookApp] Notebook Resampling-Strategies-for-Imbalanced-Datasets.ipynb is not trusted
+[I 13:15:11.856 NotebookApp] Saving file at /Resampling-Strategies-for-Imbalanced-Datasets.ipynb
+[W 13:15:11.857 NotebookApp] Notebook Resampling-Strategies-for-Imbalanced-Datasets.ipynb is not trusted
+[I 13:17:44.704 NotebookApp] Starting buffering for 40901b1d-4a0b-457b-a165-c8e5933e97f9:8049f2becb8b48248fa2895656f1deb2
+[W 13:17:52.054 NotebookApp] Notebook Resampling-Strategies-for-Imbalanced-Datasets.ipynb is not trusted
+[I 13:18:09.599 NotebookApp] Starting buffering for 40901b1d-4a0b-457b-a165-c8e5933e97f9:8b446e2781b34a72b1f4a5bdd456c1cf
